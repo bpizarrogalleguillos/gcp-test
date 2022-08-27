@@ -1,0 +1,1 @@
+abro una nuevo note e intento imprimir el contenido de dos 
