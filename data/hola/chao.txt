@@ -1,0 +1,4 @@
+En este otro archivo vamos a testear que pasa cuando 
+abro una nuevo note e intento imprimir el contenido de dos 
+documentos de texto:w
+

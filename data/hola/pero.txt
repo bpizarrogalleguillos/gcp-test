@@ -1,0 +1,6 @@
+En este documento voy a redirigir por medio
+del operador >> el output de cat de hola y chao
+En este otro archivo vamos a testear que pasa cuando 
+abro una nuevo note e intento imprimir el contenido de dos 
+documentos de texto:w
+

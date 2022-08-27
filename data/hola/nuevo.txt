@@ -1,0 +1,7 @@
+Esta es una prueba de lo que se puede hacer
+con algunos de los comandos de UNIX
+como por ejemplo el comando cat
+En este otro archivo vamos a testear que pasa cuando 
+abro una nuevo note e intento imprimir el contenido de dos 
+documentos de texto:w
+
